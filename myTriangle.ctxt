@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myTriangle()
+comment1.params=theOffset\ theBase
+comment1.target=myTriangle(int,\ int)
+comment2.params=newBase
+comment2.target=void\ set(int)
+comment2.text=Precondition\:\ newBase\ is\ odd.
+comment3.params=
+comment3.target=void\ drawHere()
+comment3.text=\n\ \ \ \ \ Draws\ the\ shape\ at\ current\ line.\n
+comment4.params=
+comment4.target=void\ drawBase()
+comment5.params=
+comment5.target=void\ drawTop()
+comment6.params=number
+comment6.target=void\ skipSpaces(int)
+numComments=7

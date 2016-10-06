@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myRectangle()
+comment1.params=theOffset\ theHeight\ theWidth
+comment1.target=myRectangle(int,\ int,\ int)
+comment2.params=newHeight\ newWidth
+comment2.target=void\ set(int,\ int)
+comment3.params=
+comment3.target=void\ drawHere()
+comment3.text=\n\ \ \ \ \ Draws\ the\ shape\ at\ the\ current\ line.\n
+comment4.params=
+comment4.target=void\ drawHorizontalLine()
+comment5.params=
+comment5.target=void\ drawSides()
+comment6.params=
+comment6.target=void\ drawOneLineOfSides()
+comment7.params=number
+comment7.target=void\ skipSpaces(int)
+numComments=8

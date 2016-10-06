@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=newHeight\ newWidth
+comment0.target=void\ set(int,\ int)
+comment0.text=\n\t\ Sets\ the\ rectangle's\ dimensions.\ \n
+numComments=1

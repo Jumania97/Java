@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fruit()
+comment1.params=name\ weight
+comment1.target=Fruit(java.lang.String,\ int)
+comment2.params=name
+comment2.target=Fruit(java.lang.String)
+comment3.params=name\ weight
+comment3.target=void\ setName(java.lang.String,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getWeight()
+comment6.params=o
+comment6.target=int\ compareTo(java.lang.Object)
+numComments=7
